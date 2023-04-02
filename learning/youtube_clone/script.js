@@ -1,4 +1,4 @@
-var menuTcon = document.querySelector(".menu-icon");
+var menuIcon = document.querySelector(".menu-icon");
 var sidebar = document.querySelector(".sidebar");
 
 menuIcon.onclick = function(){
