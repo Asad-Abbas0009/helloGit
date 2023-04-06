@@ -114,7 +114,7 @@ nav-right{
 .small-sidebar{
     width: 5%;
 }
-/* .small-sidebar a p{
+.small-sidebar a p{
     display: none;
 }
 .small-sidebar h3{
@@ -123,4 +123,4 @@ nav-right{
 .small-sidebar hr{
     width: 50%;
     margin-bottom: 25px;
-} */
+}
